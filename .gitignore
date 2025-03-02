@@ -1,0 +1,8 @@
+# abaikan semua file .log
+*.log 
+
+#abaikan folder node_modules
+node_modules/
+
+#abaikan file konfigurasi pribadi 
+.env
